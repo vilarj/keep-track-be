@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\keep-track-be.props" />
+</Project>
