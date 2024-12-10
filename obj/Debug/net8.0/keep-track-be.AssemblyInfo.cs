@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("keep-track-be")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77cdaf0fe435e342d7a110b2b784057f494567ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("keep-track-be")]
 [assembly: System.Reflection.AssemblyTitleAttribute("keep-track-be")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
