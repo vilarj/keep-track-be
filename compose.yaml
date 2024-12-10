@@ -1,6 +1,0 @@
-﻿services:
-  keep-track-be:
-    image: keep-track-be
-    build:
-      context: .
-      dockerfile: Dockerfile
